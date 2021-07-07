@@ -1,6 +1,6 @@
 class Weather {
     constructor(city, state) {
-        this.apiKey = '90062b6e73102a7114153af49354bafe'
+        this.apiKey = 'XXX'
         this.city = city
         this.state = state
     }
